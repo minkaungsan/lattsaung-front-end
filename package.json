@@ -9,7 +9,7 @@
     "lodash.assign": "^4.2.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.filter": "^4.6.0",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "lodash.orderby": "^4.6.0",
     "moment": "^2.20.1",
     "muicss": "^0.9.36",
