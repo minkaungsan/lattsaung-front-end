@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "axios-retry": "^3.1.1",
     "fb-sdk-wrapper": "^0.3.0",
     "lodash.assign": "^4.2.0",
